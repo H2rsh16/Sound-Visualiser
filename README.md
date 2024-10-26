@@ -1,2 +1,2 @@
 ﻿# Sound-Visualiser
-![Example - ](src/example.jpeg)
+![Example - ](src/sound.wav)
