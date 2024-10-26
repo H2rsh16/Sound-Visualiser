@@ -1,2 +1,2 @@
 ﻿# Sound-Visualiser
-![Example - ](http://url/to/img.png)
+![Example - ](src/example.jpeg)
