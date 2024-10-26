@@ -1,2 +1,2 @@
-﻿# Sound-Visualiser
+﻿# Example
 ![Example - ](src/example.png)
